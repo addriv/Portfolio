@@ -1,4 +1,5 @@
-# {%= name %}
+# Portfolio
+{%= name %}
 
 > {%= description %}
 
