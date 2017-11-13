@@ -382,19 +382,19 @@ a.btn:hover {
 .education-section .item-inner {
   padding: 0 30px;
 }
-.education-section .degree {
+.education-section .education-body {
   font-size: 18px;
   color: #00BCD4;
   margin-top: 0;
   margin-bottom: 0px;
 }
-.education-section .education-body {
+.education-section .degree {
   font-weight: 500;
   margin-bottom: 0px;
   font-size: 16px;
   font-weight: 300;
 }
-.education-section .time {
+.education-section .time, .school-location {
   color: #8a8a8a;
   margin-bottom: 15px;
 }
