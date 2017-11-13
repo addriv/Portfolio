@@ -394,9 +394,12 @@ a.btn:hover {
   font-size: 16px;
   font-weight: 300;
 }
-.education-section .time, .school-location {
+.education-section .time {
   color: #8a8a8a;
   margin-bottom: 15px;
+}
+.education-section .school-location {
+  color: #8a8a8a;
 }
 .education-section .desc {
   color: #666;
@@ -454,6 +457,9 @@ a.btn:hover {
   position: absolute;
   left: 0;
   top: 0;
+}
+.skills-icon {
+  font-size: 110px;
 }
 .testimonials-section .testimonials-carousel {
   max-width: 800px;
