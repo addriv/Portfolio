@@ -437,7 +437,7 @@ a.btn:hover {
   font-size: 16px;
 }
 .chart-easy-pie {
-  positon: relative;
+  position: relative;
 }
 .chart {
   width: 110px;
@@ -459,7 +459,51 @@ a.btn:hover {
   top: 0;
 }
 .skills-icon {
-  font-size: 110px;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  height: 150px;
+  width: 150px;
+  margin: 0 auto;
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 12px;
+  border-radius: 2px;
+  margin-bottom: 10px;
+}
+.react {
+  color: #61dbfc;
+}
+.react-native {
+  color: #61dbfc;
+  background-color: #000;
+}
+.ruby {
+  background-color: red;
+}
+.ruby i {
+  color: white;
+  margin-left: 35px;
+  margin-top: 13px;
+}
+.javascript {
+  background-color: rgb(240, 219, 79);
+  justify-content: flex-end;
+  align-items: unset;
+}
+.javascript div strong {
+  letter-spacing: -5px;
+  padding: 0 5px;
+  margin: 0;
+  line-height: 2;
+}
+.sql {
+  background-color: #3eaced;
+}
+.sql i {
+  color: white;
+  margin-left: 37px;
+  margin-top: 17px;
 }
 .testimonials-section .testimonials-carousel {
   max-width: 800px;
