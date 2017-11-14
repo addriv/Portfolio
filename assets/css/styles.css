@@ -632,8 +632,8 @@ a.btn:hover {
   opacity: 0.9;
 }
 .portfolio-section .item-inner .content {
-  padding: 30px;
-  padding-bottom: 75px;
+  padding: 15px;
+  padding-bottom: 60px;
   position: relative;
 }
 .portfolio-section .item-inner .content a {
@@ -651,7 +651,11 @@ a.btn:hover {
 .portfolio-section .item-inner .content .action {
   position: absolute;
   bottom: 30px;
-  left: 30px;
+  left: 15px;
+}
+.portfolio-section .item-inner .content .action a {
+  padding-right: 10px;
+  text-decoration: underline;
 }
 .portfolio-section .item-inner .link-mask {
   display: block;
@@ -664,6 +668,7 @@ a.btn:hover {
 .contact-section .intro {
   position: relative;
   padding: 30px;
+  padding-top: 0px;
   padding-left: 190px;
   font-size: 16px;
   color: #666;
